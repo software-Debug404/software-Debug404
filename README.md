@@ -10,11 +10,6 @@ Desenvolvedor Backend | Java | Desenvolvedor de Software | Spring Boot
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-davi-oliveira-de-sá-4539ba242/) [![E-mail](https://img.shields.io/badge/-Email-E34F26?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:kauandavioliveiradesa@gmail.com) [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/kauandavioliveiradesa/)
 
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=software-Debug404&theme=chartreuse-dark&show_icons=true&) 
-
-
 ### Em aprendizado
 
 - Microsserviços com Spring Cloud
