@@ -172,32 +172,37 @@ interests:
 ## `$ lab --hardware`
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║              CYBERDECK LAB  //  DEBUG404 WORKSHOP            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  UNIT-01  »  Cyberdeck Principal                             ║
-║  ├── Case: custom / impressão 3D + acrílico                  ║
-║  ├── CPU:  Raspberry Pi 4B  [4GB RAM]                        ║
-║  ├── OS:   Arch Linux ARM  /  kernel customizado             ║
-║  ├── I/O:  teclado mecânico compacto + trackpad              ║
-║  └── PWR:  bateria LiPo + solar charging                     ║
-║                                                              ║
-║  BENCH    »  Laboratório de Eletrônica                       ║
-║  ├── Ferramentas: estação de solda, osciloscópio             ║
-║  ├── Módulos: ESP32, Arduino Nano, sensores I2C              ║
-║  └── Projetos: automação, IoT experimental                   ║
-║                                                              ║
-║  INFRA    »  Homelab Doméstico                               ║
-║  ├── Pi 3B+: DNS local (Pi-hole) + VPN (WireGuard)           ║
-║  ├── Pi 4B:  servidores de dev e CI/CD local                 ║
-║  └── Storage: NAS com drives SATA em RAID software           ║
-║                                                              ║
-║  STATUS   »  BUILD EM ANDAMENTO  [documenting soon]          ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║          CYBERDECK LAB  //  DEBUG404 WORKSHOP  [MODELO 2.0]      ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  UNIT-02  »  Cyberdeck Modelo 2.0  [EM BUILD]                    ║
+║  ├── Case:   Maleta industrial  47,5 × 26 × 21 cm               ║
+║  ├── Base:   Dell Vostro 3550  (carcaça reutilizada)             ║
+║  ├── RAM:    16 GB DDR3                                          ║
+║  ├── SSD:    120 GB  (OS principal — Linux)                      ║
+║  ├── I/O:    teclado + trackpad nativos do Vostro                ║
+║  └── Hub:    USB 8-em-1  [SD · MicroSD · USB-C · USB 3.0/2.0]   ║
+║                                                                  ║
+║  CTRL     »  Painel de Controle Físico  [PLANEJADO]              ║
+║  ├── Board:  ASUS VG328H1B Monitor Button Board                  ║
+║  ├── MCU:    Raspberry Pi Pico  RP2040                           ║
+║  └── Função: botões físicos → USB HID → atalhos do sistema       ║
+║                                                                  ║
+║  WIRELESS »  Interface Remota  [PLANEJADO]                       ║
+║  ├── MCU:    Raspberry Pi Pico 2 W  (WiFi + Bluetooth 5.2)       ║
+║  ├── Web:    dashboard HTTP  →  cyberdeck.local                  ║
+║  └── BT:     teclado/mouse Bluetooth remoto                      ║
+║                                                                  ║
+║  STORAGE  »  Multi-boot via Hub USB                              ║
+║  ├── SD:     OS secundário bootável  (Arch / Kali)               ║
+║  └── MicroSD: dotfiles · scripts · configs persistentes          ║
+║                                                                  ║
+║  STATUS   »  MODELO 2.0 EM ANDAMENTO  //  documentando build     ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-> Repositório dedicado com documentação completa, scripts e fotos do build em breve.
+> Repositório dedicado com documentação completa, esquemas de integração e fotos do build em breve.
 
 <br/>
 
