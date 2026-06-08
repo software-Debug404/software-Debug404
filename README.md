@@ -1,18 +1,280 @@
-# Kauan Davi Oliveira de Sá
+<div align="center">
 
-Bem-vindo(a)! Sou um desenvolvedor backend apaixonado por Java, com foco em construção de APIs robustas, integrações com bancos de dados relacionais e boas práticas de desenvolvimento orientado a objetos.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d5a27,4a7c59,6b9e7a,8bc34a&height=200&section=header&text=Kauan%20Davi&fontSize=60&fontColor=e8f5e9&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cyberdeck%20Builder%20%7C%20Open%20Source%20Maker&descAlignY=60&descSize=16&descColor=a5d6a7&animation=fadeIn" width="100%" alt="Header"/>
 
-Desenvolvedor Backend | Java | Desenvolvedor de Software | Spring Boot
-### 💻 Conhecimentos/Habilidades/Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+<br/>
 
-### 📒 Redes Sociais/Contatos
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=6B9E7A&center=true&vCenter=true&multiline=false&width=700&lines=Tecnologia+constru%C3%ADda+para+durar.;Compreendida+por+quem+a+utiliza.;Compartilhada+com+a+comunidade.;%E2%80%94+Debug404+%2F+Kauan+Davi)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-davi-oliveira-de-sá-4539ba242/) [![E-mail](https://img.shields.io/badge/-Email-E34F26?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:kauandavioliveiradesa@gmail.com) [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/kauandavioliveiradesa/)
+<br/>
 
-### Em aprendizado
+<img src="https://img.shields.io/badge/status-disponível-4a7c59?style=flat-square&labelColor=1a2e1a&logo=statuspage&logoColor=8bc34a" alt="Status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/localização-Brasil-2d5a27?style=flat-square&labelColor=1a2e1a&logo=leaf&logoColor=a5d6a7" alt="Localização"/>
+&nbsp;
+<img src="https://img.shields.io/badge/foco-Backend%20%7C%20APIs%20%7C%20Hardware-4a7c59?style=flat-square&labelColor=1a2e1a" alt="Foco"/>
 
-- Microsserviços com Spring Cloud
-- Testes automatizados (JUnit, Mockito)
-- Kubernetes e CI/CD com GitHub Actions
-- Segurança em APIs (OAuth2, Keycloak)
+</div>
+
+<br/>
+
+---
+
+## `$ whoami`
+
+```yaml
+name:       Kauan Davi Oliveira de Sá
+alias:      software-Debug404
+role:       Backend Engineer · Cyberdeck Builder · Open Source Enthusiast
+location:   Brasil
+
+philosophy: >
+  Acredito que tecnologia de qualidade não precisa ser opaca,
+  descartável ou corporativa. Prefiro sistemas que possam ser
+  compreendidos, modificados e compartilhados — do código ao hardware.
+
+interests:
+  - APIs distribuídas e microsserviços com Java & Spring
+  - Linux embarcado e Raspberry Pi para infraestrutura de baixo custo
+  - Construção de cyberdecks e hardware hacking
+  - Open source, documentação e comunidade
+  - Automação de infraestrutura com Kubernetes e CI/CD
+```
+
+<br/>
+
+---
+
+## `$ tech --list --categorized`
+
+<details open>
+<summary><b>⬡ Backend</b></summary>
+<br/>
+
+![Java](https://img.shields.io/badge/Java-1a2e1a?style=for-the-badge&logo=openjdk&logoColor=f9a825)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a2e1a?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![Spring Security](https://img.shields.io/badge/Spring_Security-1a2e1a?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![PHP](https://img.shields.io/badge/PHP-1a2e1a?style=for-the-badge&logo=php&logoColor=9b59b6)
+![Node.js](https://img.shields.io/badge/Node.js-1a2e1a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1a2e1a?style=for-the-badge&logo=fastapi&logoColor=a5d6a7)
+
+</details>
+
+<details>
+<summary><b>⬡ Frontend</b></summary>
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-1a2e1a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a2e1a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a2e1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+</details>
+
+<details>
+<summary><b>⬡ Banco de Dados</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2e1a?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-1a2e1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+</details>
+
+<details>
+<summary><b>⬡ DevOps & Infraestrutura</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-1a2e1a?style=for-the-badge&logo=docker&logoColor=2CA5E0)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a2e1a?style=for-the-badge&logo=github-actions&logoColor=a5d6a7)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a2e1a?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Nginx](https://img.shields.io/badge/Nginx-1a2e1a?style=for-the-badge&logo=nginx&logoColor=009639)
+
+</details>
+
+<details>
+<summary><b>⬡ Ferramentas & Sistemas</b></summary>
+<br/>
+
+![Linux](https://img.shields.io/badge/Linux-1a2e1a?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a2e1a?style=for-the-badge&logo=arch-linux&logoColor=1793D1)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a2e1a?style=for-the-badge&logo=raspberry-pi&logoColor=C51A4A)
+![VS Code](https://img.shields.io/badge/VS_Code-1a2e1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-1a2e1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Git](https://img.shields.io/badge/Git-1a2e1a?style=for-the-badge&logo=git&logoColor=F05032)
+
+</details>
+
+<br/>
+
+---
+
+## `$ projects --featured`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### `[ debug-api-gateway ]`
+> Serviço de gateway para roteamento e autenticação de microsserviços com Spring Cloud Gateway + OAuth2.
+
+**Stack:** `Java` `Spring Cloud` `OAuth2` `Docker`
+
+**Objetivo:** Centralizar autenticação e roteamento em arquitetura distribuída de baixo custo.
+
+[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/KauanDaviDev)
+
+</td>
+<td width="50%" valign="top">
+
+### `[ cyberdeck-scripts ]`
+> Coleção de scripts e configs para setup automatizado de cyberdeck Linux — do bare metal ao ambiente funcional.
+
+**Stack:** `Bash` `Linux` `Ansible` `Raspberry Pi`
+
+**Objetivo:** Reproduzir o ambiente de desenvolvimento do cyberdeck em qualquer hardware compatível.
+
+[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/KauanDaviDev)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `[ spring-auth-template ]`
+> Template de autenticação completo com Spring Security, JWT, refresh tokens e roles por permissão.
+
+**Stack:** `Java` `Spring Boot` `Spring Security` `PostgreSQL`
+
+**Objetivo:** Acelerar o início de projetos com segurança robusta já configurada.
+
+[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/KauanDaviDev)
+
+</td>
+<td width="50%" valign="top">
+
+### `[ rpi-homelab ]`
+> Infraestrutura de homelab rodando sobre Raspberry Pi — monitoramento, DNS local, VPN e containers.
+
+**Stack:** `Raspberry Pi` `Docker` `Pi-hole` `WireGuard`
+
+**Objetivo:** Aprender infraestrutura real com hardware acessível e custo zero de nuvem.
+
+[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/KauanDaviDev)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## `$ lab --hardware`
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              CYBERDECK LAB  //  DEBUG404 WORKSHOP            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  UNIT-01  »  Cyberdeck Principal                             ║
+║  ├── Case: custom / impressão 3D + acrílico                  ║
+║  ├── CPU:  Raspberry Pi 4B  [4GB RAM]                        ║
+║  ├── OS:   Arch Linux ARM  /  kernel customizado             ║
+║  ├── I/O:  teclado mecânico compacto + trackpad              ║
+║  └── PWR:  bateria LiPo + solar charging                     ║
+║                                                              ║
+║  BENCH    »  Laboratório de Eletrônica                       ║
+║  ├── Ferramentas: estação de solda, osciloscópio             ║
+║  ├── Módulos: ESP32, Arduino Nano, sensores I2C              ║
+║  └── Projetos: automação, IoT experimental                   ║
+║                                                              ║
+║  INFRA    »  Homelab Doméstico                               ║
+║  ├── Pi 3B+: DNS local (Pi-hole) + VPN (WireGuard)           ║
+║  ├── Pi 4B:  servidores de dev e CI/CD local                 ║
+║  └── Storage: NAS com drives SATA em RAID software           ║
+║                                                              ║
+║  STATUS   »  BUILD EM ANDAMENTO  [documenting soon]          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> Repositório dedicado com documentação completa, scripts e fotos do build em breve.
+
+<br/>
+
+---
+
+## `$ roadmap --show`
+
+| Área | Tópico | Status | Progresso |
+|------|--------|--------|-----------|
+| Arquitetura | Microsserviços com Spring Cloud | Em andamento | `████████░░` 80% |
+| Segurança | OAuth2 + Keycloak | Em andamento | `██████░░░░` 60% |
+| Testes | JUnit 5 + Mockito | Em andamento | `███████░░░` 70% |
+| DevOps | Kubernetes (K8s) | Iniciando | `████░░░░░░` 40% |
+| DevOps | CI/CD com GitHub Actions | Em andamento | `██████░░░░` 65% |
+| Observabilidade | Prometheus + Grafana | Planejado | `██░░░░░░░░` 20% |
+| Infraestrutura | Terraform + IaC | Planejado | `█░░░░░░░░░` 10% |
+
+<br/>
+
+---
+
+## `$ stats --display`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanDaviDev&show_icons=true&theme=merko&bg_color=0d1b0d&border_color=2d5a27&title_color=8bc34a&text_color=a5d6a7&icon_color=6b9e7a&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanDaviDev&layout=compact&theme=merko&bg_color=0d1b0d&border_color=2d5a27&title_color=8bc34a&text_color=a5d6a7&hide_border=false&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KauanDaviDev&theme=merko&background=0d1b0d&border=2d5a27&stroke=2d5a27&ring=6b9e7a&fire=f9a825&currStreakNum=a5d6a7&sideNums=a5d6a7&currStreakLabel=8bc34a&sideLabels=6b9e7a&dates=4a7c59&hide_border=false" alt="Streak Stats"/>
+
+<br/><br/>
+
+[![Kauan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KauanDaviDev&bg_color=0d1b0d&color=6b9e7a&line=4a7c59&point=8bc34a&area=true&area_color=2d5a27&border_color=2d5a27&hide_border=false)](https://github.com/KauanDaviDev)
+
+</div>
+
+<br/>
+
+---
+
+## `$ contact --channels`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=&labelColor=0d1b0d)](https://www.linkedin.com/in/kauan-davi-oliveira-de-sá-4539ba242/)
+&nbsp;
+[![E-mail](https://img.shields.io/badge/E--mail-0d1b0d?style=for-the-badge&logo=gmail&logoColor=EA4335&label=&labelColor=0d1b0d)](mailto:kauandavioliveiradesa@gmail.com)
+&nbsp;
+[![DIO](https://img.shields.io/badge/DIO_Profile-0d1b0d?style=for-the-badge&logo=dev.to&logoColor=30A3DC&label=&labelColor=0d1b0d)](https://web.dio.me/users/kauandavioliveiradesa/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1b0d?style=for-the-badge&logo=github&logoColor=a5d6a7&label=&labelColor=0d1b0d)](https://github.com/KauanDaviDev)
+
+<br/>
+
+```
+kauandavioliveiradesa@gmail.com  ·  aberto para colaborações e projetos open source
+```
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d5a27,4a7c59,6b9e7a,8bc34a&height=120&section=footer&reversal=false" width="100%" alt="Footer"/>
+
+<sub>
+
+`// built with intention · documented with care · shared with the community`
+
+**software-Debug404** · Kauan Davi Oliveira de Sá
+
+</sub>
+
+</div>
