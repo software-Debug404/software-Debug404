@@ -121,7 +121,7 @@ interests:
 
 **Objetivo:** Centralizar autenticação e roteamento em arquitetura distribuída de baixo custo.
 
-[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/KauanDaviDev)
+[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/software-Debug404)
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +133,7 @@ interests:
 
 **Objetivo:** Reproduzir o ambiente de desenvolvimento do cyberdeck em qualquer hardware compatível.
 
-[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/KauanDaviDev)
+[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/software-Debug404)
 
 </td>
 </tr>
@@ -147,7 +147,7 @@ interests:
 
 **Objetivo:** Acelerar o início de projetos com segurança robusta já configurada.
 
-[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/KauanDaviDev)
+[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/software-Debug404)
 
 </td>
 <td width="50%" valign="top">
@@ -159,7 +159,7 @@ interests:
 
 **Objetivo:** Aprender infraestrutura real com hardware acessível e custo zero de nuvem.
 
-[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/KauanDaviDev)
+[![Repo](https://img.shields.io/badge/→_ver_repositório-1a2e1a?style=flat-square&logo=github&logoColor=a5d6a7)](https://github.com/software-Debug404)
 
 </td>
 </tr>
@@ -223,17 +223,17 @@ interests:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanDaviDev&show_icons=true&theme=merko&bg_color=0d1b0d&border_color=2d5a27&title_color=8bc34a&text_color=a5d6a7&icon_color=6b9e7a&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=software-Debug404&show_icons=true&theme=merko&bg_color=0d1b0d&border_color=2d5a27&title_color=8bc34a&text_color=a5d6a7&icon_color=6b9e7a&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanDaviDev&layout=compact&theme=merko&bg_color=0d1b0d&border_color=2d5a27&title_color=8bc34a&text_color=a5d6a7&hide_border=false&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=software-Debug404&layout=compact&theme=merko&bg_color=0d1b0d&border_color=2d5a27&title_color=8bc34a&text_color=a5d6a7&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KauanDaviDev&theme=merko&background=0d1b0d&border=2d5a27&stroke=2d5a27&ring=6b9e7a&fire=f9a825&currStreakNum=a5d6a7&sideNums=a5d6a7&currStreakLabel=8bc34a&sideLabels=6b9e7a&dates=4a7c59&hide_border=false" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=software-Debug404&theme=merko&background=0d1b0d&border=2d5a27&stroke=2d5a27&ring=6b9e7a&fire=f9a825&currStreakNum=a5d6a7&sideNums=a5d6a7&currStreakLabel=8bc34a&sideLabels=6b9e7a&dates=4a7c59&hide_border=false" alt="Streak Stats"/>
 
 <br/><br/>
 
-[![Kauan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KauanDaviDev&bg_color=0d1b0d&color=6b9e7a&line=4a7c59&point=8bc34a&area=true&area_color=2d5a27&border_color=2d5a27&hide_border=false)](https://github.com/KauanDaviDev)
+[![Kauan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=software-Debug404&bg_color=0d1b0d&color=6b9e7a&line=4a7c59&point=8bc34a&area=true&area_color=2d5a27&border_color=2d5a27&hide_border=false)](https://github.com/software-Debug404)
 
 </div>
 
@@ -251,7 +251,7 @@ interests:
 &nbsp;
 [![DIO](https://img.shields.io/badge/DIO_Profile-0d1b0d?style=for-the-badge&logo=dev.to&logoColor=30A3DC&label=&labelColor=0d1b0d)](https://web.dio.me/users/kauandavioliveiradesa/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1b0d?style=for-the-badge&logo=github&logoColor=a5d6a7&label=&labelColor=0d1b0d)](https://github.com/KauanDaviDev)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1b0d?style=for-the-badge&logo=github&logoColor=a5d6a7&label=&labelColor=0d1b0d)](https://github.com/software-Debug404)
 
 <br/>
 
