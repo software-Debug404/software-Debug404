@@ -177,12 +177,12 @@ interests:
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║  UNIT-02  »  Cyberdeck Modelo 2.0  [EM BUILD]                    ║
-║  ├── Case:   Maleta industrial  47,5 × 26 × 21 cm               ║
+║  ├── Case:   Maleta industrial  47,5 × 26 × 21 cm                ║
 ║  ├── Base:   Dell Vostro 3550  (carcaça reutilizada)             ║
 ║  ├── RAM:    16 GB DDR3                                          ║
 ║  ├── SSD:    120 GB  (OS principal — Linux)                      ║
 ║  ├── I/O:    teclado + trackpad nativos do Vostro                ║
-║  └── Hub:    USB 8-em-1  [SD · MicroSD · USB-C · USB 3.0/2.0]   ║
+║  └── Hub:    USB 8-em-1  [SD · MicroSD · USB-C · USB 3.0/2.0]    ║
 ║                                                                  ║
 ║  CTRL     »  Painel de Controle Físico  [PLANEJADO]              ║
 ║  ├── Board:  ASUS VG328H1B Monitor Button Board                  ║
@@ -261,7 +261,7 @@ interests:
 <br/>
 
 ```
-kauandavioliveiradesa@gmail.com  ·  aberto para colaborações e projetos open source
+kauandavioliveiradesa@gmail.com  ·  aberto para colaborações e projetos
 ```
 
 </div>
@@ -275,8 +275,6 @@ kauandavioliveiradesa@gmail.com  ·  aberto para colaborações e projetos open 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d5a27,4a7c59,6b9e7a,8bc34a&height=120&section=footer&reversal=false" width="100%" alt="Footer"/>
 
 <sub>
-
-`// built with intention · documented with care · shared with the community`
 
 **software-Debug404** · Kauan Davi Oliveira de Sá
 
